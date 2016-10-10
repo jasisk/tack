@@ -3,6 +3,7 @@ variable "azs" {}
 variable "cidr" {}
 variable "name" {}
 variable "region" {}
+variable "hyperkube-tag" {}
 
 variable "id" {}
 variable "gateway-id" {}
